@@ -113,7 +113,7 @@
     (property "ki_description" "test point")
     (property "ki_keywords" "test point tp")
     (path "/e0b55eb3-f6ff-495e-903d-739da3138778")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP5" (at 0 -1.448) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3dda9d80-dbf8-4318-b53d-a795a38e460a)
@@ -203,7 +203,7 @@
   (footprint "User:Frog Silkscreen Small" (layer "F.Cu")
     (tstamp 29f0fe60-7b82-4620-a944-688261d3e02d)
     (at 82.05 105.05)
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9d8dc65b-d1a5-4778-b16c-fc6c2a382815)
@@ -452,7 +452,7 @@
     (property "ki_description" "test point")
     (property "ki_keywords" "test point tp")
     (path "/6ba5d549-77ab-4be6-bd19-9f27d4c42f18")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP6" (at 0 -1.448) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 20d4ae9b-a143-46d8-ba15-84d2a42e6628)
@@ -741,7 +741,7 @@
     (property "ki_description" "test point")
     (property "ki_keywords" "test point tp")
     (path "/09d6a2d3-c18a-4ffa-a277-4bb8575db280")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP3" (at 0 -1.448) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1567ab94-f3d4-4d9e-ab1a-ac052eff16d7)
@@ -853,7 +853,7 @@
     (property "ki_description" "test point")
     (property "ki_keywords" "test point tp")
     (path "/d64bebcf-ecfd-4d13-9026-886555309144")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP1" (at 0 -1.648) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6f8ceb6e-657d-4c7c-a215-2afedcbb41a2)
@@ -1019,7 +1019,7 @@
     (property "ki_description" "test point")
     (property "ki_keywords" "test point tp")
     (path "/3292aa1a-c845-4440-92e0-d0f27791ba28")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP2" (at 0 -1.448) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5d5e54d5-17cf-46d3-85fc-35bcb9aedbd5)
@@ -1062,7 +1062,7 @@
     (property "ki_description" "test point")
     (property "ki_keywords" "test point tp")
     (path "/01ec16af-2718-4cf4-931c-60442924c274")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP4" (at 0 -1.448) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f072b2f2-5d8c-4fae-b083-82a8d32a9207)
@@ -1104,7 +1104,7 @@
     (property "Sheetname" "")
     (property "ki_description" "test point")
     (property "ki_keywords" "test point tp")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP6" (at 0 -1.448) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5c7ad4f0-a7f2-4d74-bb4f-10ddd9d904f6)
@@ -1146,7 +1146,7 @@
     (property "Sheetname" "")
     (property "ki_description" "test point")
     (property "ki_keywords" "test point tp")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP4" (at 0 -1.448) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b6071766-58e8-420e-8507-312fc9ad0ba1)
