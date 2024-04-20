@@ -1,6 +1,6 @@
 # mgl_switch
 ![PCB layout](pcbLayout.png)
-This is a replacement switch for the Game Boy Light. The original MGL switch is an unusual 3PDT for which a suitable replacement isn't currently known. This design uses a standard 3PST switch and mosfets to replicate the ability to turn on the system and back light with a single switch.
+This is a replacement switch for the Game Boy Light. The original MGL switch is an unusual 3PDT for which a suitable replacement isn't currently known. This design uses a standard SP3T switch and mosfets to replicate the ability to turn on the system and back light with a single switch.
 
 # About this repo
 This repo consists of three main components:
